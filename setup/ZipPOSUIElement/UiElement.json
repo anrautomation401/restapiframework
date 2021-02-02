@@ -1,0 +1,17 @@
+{
+	"LOGIN_BUTTON"	 	: 	"//button[contains(@class,'btn btn-success') and contains(.,'Login')]",
+	"EMAIL_FIELD" 	 	: 	"(//input[@type='email' and @placeholder='Email ID'])[1]",
+	"PASSWORD_FIELD" 	:	"(//input[@type='password' and @placeholder='Password'])[1]",
+	"APP_NAME"		 	:	"(//div[contains(@class,'landing-apps')]//h3[contains(text(),'Zip POS')]/..//div//img | //div[contains(@class,'landing-apps')]//h3[contains(text(),'Zip POS')]/..//span//button[contains(text(),'Go To App')])[1]",
+	"SITE_SELECT"    	:	"//ul[@class='list-unstyled ng-scope']//li",
+	"GUEST_COUNT"	 	:	"//p[contains(.,'Guest Count')]",
+	"NET_SALES"		 	:	"//p[contains(.,'Net Sales')]",
+	"GUEST_COUNT_TEXT"	:	"//p[contains(.,'Guest Count')]//preceding-sibling::p",
+	"ITEM_COUNT"		:	"//p[contains(.,'Item Count')]//preceding-sibling::p",
+	"ORDER_COUNT"		:	"//p[contains(.,'Order Count')]//preceding-sibling::p",
+	"CHECK_AVERAGE"		:	"//p[contains(.,'Check Average')]//preceding-sibling::p",
+	"NET_SALES_TEXT"	:	"//p[contains(.,'Net Sales')]//preceding-sibling::p",
+	"DATE_DROPDOWN"		:	"//div[@id='datepkr-auto']//button[contains(@class,'ng-valid-date')]",
+	"SELECT_DATE"		:	"//td[contains(@class,'text-center')]//button[contains(.,'DYN1')]"
+	
+}

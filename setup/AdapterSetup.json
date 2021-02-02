@@ -1,0 +1,34 @@
+{
+	"BRINK": {
+		"application_name": "Zip POS",
+		"application_url": "https://ssodev.hubworks.com/ssodev/#/login/",
+		"username": "pos@automation.com",
+		"passsword": "1234",
+		"apiKey": "78965",
+		"postURL": "https://sbxpcdev.anyconnector.com/PCReciever/rest/pc/v1/process"
+	},
+	"NCRSILVER":{
+		"application_name": "Zip",
+		"application_url": "https://ssodev.hubworks.com/ssodev/#/login/",
+		"username": "pos@automation.com",
+		"passsword": "1234",
+		"apiKey": "78965",
+		"postURL": "https://sbxpcdev.anyconnector.com/PCReciever/rest/pc/v1/process"
+	},
+	"SQUARE":{
+		"application_name": "Zip POS",
+		"application_url": "https://ssodev.hubworks.com/ssodev/#/login/",
+		"username": "pos@automation.com",
+		"passsword": "1234",
+		"apiKey": "78965",
+		"postURL": "https://sbxpcdev.anyconnector.com/PCReciever/rest/pc/v1/process"
+	},
+	"TOAST":{
+		"application_name": "Zip POS",
+		"application_url": "https://ssodev.hubworks.com/ssodev/#/login/",
+		"username": "pos@automation.com",
+		"passsword": "1234",
+		"apiKey": "78965",
+		"postURL": "https://sbxpcdev.anyconnector.com/PCReciever/rest/pc/v1/process"
+	}
+}

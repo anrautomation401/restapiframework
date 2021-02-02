@@ -1,0 +1,13 @@
+[
+	{
+		"hubworks": true,
+		"app_name": "Zip POS",
+		"url": "https://ssodev.hubworks.com/ssodev/#/login/",
+		"prtSiteID": "at0012",
+		"partnerID": "BRINK",
+		"busiDate": "2021-01-17",
+		"validateUi": false,
+		"userName": "pos@automation.com",
+		"password": "1234"
+	}
+]
